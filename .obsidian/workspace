@@ -7,8 +7,12 @@
         "id": "3933ed4c8997ac8c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -119,12 +127,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8e9feb7c7138fef9",
+  "active": "3933ed4c8997ac8c",
   "lastOpenFiles": [
     "2022-09-07.md",
+    "README.md",
     "kg/KG.md",
     "kg/conference/EVENTkg+click.pdf",
-    "README.md",
     "未命名.md",
     "kg/conference/OEKG.pdf",
     "kg/conference/EVENT KG +TL.pdf"
