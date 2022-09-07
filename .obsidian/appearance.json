@@ -1,1 +1,5 @@
-{}
+{
+  "cssTheme": "Wasp",
+  "theme": "obsidian",
+  "translucency": true
+}

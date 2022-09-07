@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b0270d07fc05e0a",
+        "id": "3933ed4c8997ac8c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,22 +110,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6b0270d07fc05e0a",
+  "active": "8e9feb7c7138fef9",
   "lastOpenFiles": [
-    "kg/conference/OEKG.pdf",
+    "2022-09-07.md",
+    "kg/KG.md",
     "kg/conference/EVENTkg+click.pdf",
+    "README.md",
+    "未命名.md",
+    "kg/conference/OEKG.pdf",
     "kg/conference/EVENT KG +TL.pdf"
   ]
 }
