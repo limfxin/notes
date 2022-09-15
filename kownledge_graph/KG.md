@@ -70,6 +70,7 @@ a customer eating food in a restaurant
 
 
 # EVENTSKG: A Knowledge Graph Representation forTop-Prestigious Computer Science Events Metadata
+## 概述
 - 上为论文名称
 - [论文地址](https://www.researchgate.net/publication/326890754_EVENTSKG_A_Knowledge_Graph_Representation_for_Top-Prestigious_Computer_Science_Events_Metadata_10th_International_Conference_ICCCI_2018_Bristol_UK_September_5-7_2018_Proceedings_Part_I)
 - 数据查询语言 
@@ -83,6 +84,13 @@ a customer eating food in a restaurant
 2. [URL](http://purl.org/events_ds)
 3. [github](https://github.com/saidfathalla/EVENTS-Dataset)
 4. [数据展示](https://saidfathalla.github.io/EVENTS-Dataset/EVENTS.html)
+## 时序知识图谱
+时序时间图谱的定义
+![[0CACD304-9A20-46B2-B15C-A07418A54640.jpeg]]
+
+## 生成时间线
+
+
 
 # EventKG+TL:基于事件知识图谱的时间线生成
 - 跨文化 跨语言

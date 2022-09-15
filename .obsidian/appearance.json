@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Wasp",
+  "cssTheme": "Things",
   "theme": "obsidian",
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 18
 }

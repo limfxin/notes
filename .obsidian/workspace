@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3933ed4c8997ac8c",
+        "id": "b7a9daa99c044dff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "diary/2022-09-07.md",
+            "file": "虚拟化与云计算/第一次作业.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.00793838500977
   },
   "right": {
     "id": "776b1d6a7ccc5f13",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2022-09-07.md",
+                "file": "虚拟化与云计算/第一次作业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2022-09-07.md",
+                "file": "虚拟化与云计算/第一次作业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,24 +117,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2022-09-07.md"
+                "file": "虚拟化与云计算/第一次作业.md"
               }
             }
+          },
+          {
+            "id": "279d39372c5a8758",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.6697082519531
   },
-  "active": "8e9feb7c7138fef9",
+  "active": "b7a9daa99c044dff",
   "lastOpenFiles": [
-    "README.md",
-    "diary/2022-09-07.md",
-    "kg/KG.md",
-    "kg/conference/EVENTkg+click.pdf",
+    "嵌入式系统设计/嵌入式系统概述.md",
     "未命名.md",
-    "kg/conference/OEKG.pdf",
-    "kg/conference/EVENT KG +TL.pdf"
+    "虚拟化与云计算/第一次作业.md",
+    "kownledge_graph/EVENTkg.md",
+    "kownledge_graph/EVENTkg.pdf",
+    "kownledge_graph/SEM.md",
+    "kownledge_graph/conference/EVENTkg.pdf",
+    "kownledge_graph/conference/Temperal KG.pdf",
+    "kownledge_graph/conference/EVENTkg+click.pdf",
+    "kownledge_graph/conference/EVENT KG +TL.pdf"
   ]
 }
