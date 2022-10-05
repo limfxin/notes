@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Things",
-  "theme": "obsidian",
-  "translucency": true,
-  "baseFontSize": 18
+  "cssTheme": "Solarized",
+  "theme": "moonstone",
+  "translucency": false,
+  "baseFontSize": 19
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a9daa99c044dff",
+        "id": "18b54190835f4084",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "虚拟化与云计算/第一次作业.md",
+            "file": "大创/readme.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "虚拟化与云计算/第一次作业.md",
+                "file": "大创/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "虚拟化与云计算/第一次作业.md",
+                "file": "大创/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "虚拟化与云计算/第一次作业.md"
+                "file": "大创/readme.md"
               }
             }
           },
@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.6697082519531
+    "width": 262.6697082519531,
+    "collapsed": true
   },
-  "active": "b7a9daa99c044dff",
+  "active": "18b54190835f4084",
   "lastOpenFiles": [
-    "嵌入式系统设计/嵌入式系统概述.md",
-    "未命名.md",
-    "虚拟化与云计算/第一次作业.md",
-    "kownledge_graph/EVENTkg.md",
-    "kownledge_graph/EVENTkg.pdf",
+    "kownledge_graph/EKG.md",
     "kownledge_graph/SEM.md",
-    "kownledge_graph/conference/EVENTkg.pdf",
-    "kownledge_graph/conference/Temperal KG.pdf",
-    "kownledge_graph/conference/EVENTkg+click.pdf",
-    "kownledge_graph/conference/EVENT KG +TL.pdf"
+    "information exaction/UIE/UIE.md",
+    "readme.md.md",
+    "计算机操作系统/计算机操作体统.md.md",
+    "计算机操作系统/2022王道计算机操作系统.pdf",
+    "虚拟化与云计算/第二次作业.md",
+    "虚拟化与云计算/第一次作业.md",
+    "数字图像处理/数字图像处理.md",
+    "information exaction/UIE/20-074.pdf"
   ]
 }
